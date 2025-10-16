@@ -1,0 +1,20 @@
+TEMPORAL VIEW - STREAMING DASHBOARD
+===================================
+
+Análisis Temporal:
+• Serie temporal de interés por categoría
+• Evolución del engagement en el tiempo
+• Patrones de volatilidad por región
+• Tendencias estacionales identificadas
+
+Métricas Temporales:
+• Drama: Mayor crecimiento temporal
+• Comedy: Patrón estable
+• Action: Picos de interés
+• Documentary: Tendencias crecientes
+• Romance: Patrón bajo y estable
+
+Datos temporales desde: analyst/integrated_data.csv
+Período analizado: 2024
+Registros temporales: 13,050
+Países con datos temporales: 10

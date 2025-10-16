@@ -1,0 +1,9 @@
+streamlit>=1.36
+pandas>=2.0
+numpy>=1.24
+plotly>=5.22
+matplotlib>=3.8
+seaborn>=0.13
+geopandas>=1.0
+shapely>=2.0
+pyproj>=3.5

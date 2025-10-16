@@ -1,0 +1,21 @@
+GEOGRAPHIC VIEW - STREAMING DASHBOARD
+=====================================
+
+Regiones Analizadas:
+• Asia: 25.5 interés promedio
+• Europe: 18.3 interés promedio
+• North America: 22.1 interés promedio
+• South America: 15.7 interés promedio
+• Other: 12.4 interés promedio
+
+Categorías de Contenido:
+• Drama: 30.3 interés promedio
+• Comedy: 5.9 interés promedio
+• Action: 4.4 interés promedio
+• Documentary: 3.0 interés promedio
+• Romance: 0.6 interés promedio
+
+Datos cargados desde: analyst/country_aggregated.csv
+Países únicos: 10
+Regiones únicas: 5
+Categorías únicas: 5
